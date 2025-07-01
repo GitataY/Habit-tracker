@@ -1,6 +1,28 @@
 # Welcome to HABIT TRACKER 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+---
+
+## ⚡️ Features
+
+* 🏅 **Habit Streaks**
+  Track and visualize your habit streaks with real-time updates.
+  
+* ✅ **Add/Complete Habits**
+  Add new habits, mark them as completed, and delete them from your list.
+
+* 🔄 **Real-Time Data**
+  Sync your habits and completions in real-time with Appwrite.
+
+* 🌑 **Dark Mode Support**
+  Use TailwindCSS to implement a beautiful and responsive dark mode.
+
+* 📱 **Responsive Design**
+  Use Expo's built-in features to create a mobile-first, responsive design.
+
+* 🚀 **User Authentication**
+  Users can sign up, sign in, and manage their authentication state with Appwrite.
+
+---
 
 ## Get started
 
@@ -15,12 +37,3 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
